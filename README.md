@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# INPUT ANIMADO
 
 Este foi um exercício para melhorar meus estudos em HTML e CSS. 
 
